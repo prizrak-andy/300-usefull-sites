@@ -17,6 +17,10 @@
 <li><a href="http://invoiceto.me/">Invoice to me</a>: <em>Бесплатный генератор счета.</em></li>
 <li><a href="https://www.free-invoice-generator.com/">Free Invoice Generator</a>: <em>Альтернативный&nbsp;бесплатный генератор счета.</em></li>
 <li><a href="http://slimvoice.co/">Slimvoice:</a> <em>Невероятно простой счет.</em></li>
+<li>http://www.designmantic.com/ <em>Генератор логотипов</em>
+<li>http://www.logogarden.com/ <em>Генератор логотипов</em>
+<li>http://bplaced.net/ <em>Немецкий хостинг с бесплатным тарифным планом (2 гб пространства + ftp/php/MySQL/PostgreSQL)</em>
+
 </ul><br>
 
 <h3>B. Бесплатные генераторы наименований бизнеса/проекта</h3><br>
@@ -79,6 +83,14 @@
 <li><a href="https://www.xml-sitemaps.com/">XML Sitemaps:</a><em>&nbsp;Генератор карт сайта в формате&nbsp;XML и HTML.</em></li>
 <li><a href="http://validator.w3.org/">W3C validator</a>: <em>Сервис валидации веб-сайта.</em></li>
 <li><a href="https://ecommerce.shopify.com/grader">Shopify E-commerce Report:</a><em>&nbsp;Бесплатный отчет по интернет торговле.</em></li>
+<li><ul>Немного ресурсов от <a href="http://habrahabr.ru/users/skomoroh/">skomoroh</a>	
+<a href="http://py7.ru/tools/text/">py7.ru/tools/text/</a> — генератор текстов из списков запросов по шаблону ( перебор, 1к1, рандом ) для контекста, анкоров и прочего<br>
+<a href="http://py7.ru/tools/morph/">py7.ru/tools/morph/</a> — конвертер морфологии( склонялка ) для списков запросов ( подготовка для генератора )<br>
+<a href="http://py7.ru/tools/norm/">py7.ru/tools/norm/</a> — нормализация запросов ( приведение морфологии, сортировка и чистка и т.д. )<br>
+<a href="http://py7.ru/tools/keycnt/">py7.ru/tools/keycnt/</a> — считалка слов ( подсчет всех слов во всех запросах )<br>
+<a href="http://py7.ru/tools/group/">py7.ru/tools/group/</a> — группировка и чистка запросов ( разбивка запросов на группы/чистка по фильтрам из запросов )<br>
+<a href="http://py7.ru/tools/minus/">py7.ru/tools/minus/</a> — кросс-минусовка ( добавление минус слов в запросы )<br>
+</ul></li>
 </ul><br>
 
 <h3>F. Бесплатные оптимизаторы изображений</h3><br>
@@ -171,6 +183,17 @@
 <li><a href="http://www.freepik.com/">Freepik:</a><em>&nbsp;Графические элементы для каждого.</em></li>
 <li><a href="http://www.techandall.com/">Tech&amp;All:</a> <em>Бесплатные работы, новости и прочая информация.</em></li>
 <li><a href="http://www.invisionapp.com/tethr">Tethr:</a><em>&nbsp;Самый красивый комплект элементов дизайна для iOS.</em></li>
+<li>http://www.bypeople.com/</li>
+<li>http://www.awwwards.com/</li>
+<li>http://www.csswinner.com/</li>
+<li>http://www.cssdesignawards.com/</li>
+<li>http://www.cssawds.com/</li>
+<li>http://ru.365psd.com/</li>
+<li>http://themeforest.net/category/site-templates</li>
+<li>http://codepen.io/</li>
+<li>https://onepagelove.com/ <em>Одностраничники</em></li>
+<li>http://themelord.com/ <em>Много шаблонов</em></li>
+<li>http://flatdsgn.com/ <em>Вдохновение, а так же их колонка в Pinterest : https://www.pinterest.com/flatdsgn/concept-web-design-inspiration-ui-ux/ </em></li>
 </ul><br>
 
 <h3>B. Выбор цвета</h3><br>
@@ -297,6 +320,24 @@
 <li><a href="https://www.iconfinder.com/free_icons">Icon Finder:</a><em>&nbsp;Бесплатные иконки.</em></li>
 <li><em>Бесплатные круглые&nbsp;иконки: </em><a href="http://roundicons.com/doodle-icons-free-set/">Doodle Set</a> | <a href="http://roundicons.com/free-icons/">Flat Set</a> | <a href="http://roundicons.com/free-vector-line-icons-set/">Vector Line Set</a></li>
 <li><a href="http://iconsweets.com/">Icon Sweets:</a> <em>60 бесплатных векторных иконок для&nbsp;Photoshop.</em></li>
+<li>http://fontastic.me/</li>
+<li>https://pixabay.com/</li>
+<li>http://www.kozzi.com/</li>
+<li>http://www.flaticon.com/</li>
+<li>http://www.freepik.com/</li>
+<li>stocksnap.io</li>
+<li>http://icons8.com/</li>
+<li>http://allthefreestock.com/</li>
+<li>https://github.com/heyalexej/awesome-images <em>Список стоков</em></li>
+<li>http://makerbook.net/ <em>Каталог ресурсов на тему поиска изображений и иконок</em></li>
+<li>http://fontawesome.io/ <em>Для элементов интерфейса</em></li>
+<li>http://iconizer.net/</li>
+<li>https://icomoon.io/app/#/select</li>
+<li>http://www.vecteezy.com/</li>
+<li>https://github.com/google/material-design-icons <em>Material design icons for mobile development</em></li>
+<li>http://graphicburger.com/</li>
+<li>http://psd-stock.ru/</li>
+<li>http://limecake.ru/</li>
 </ul><br>
 
 <h3>G. Прочие бесплатные инструменты</h3><br>
@@ -306,6 +347,7 @@
 <li><a href="http://uiblurbs.com/">UI Blurbs:</a><em>&nbsp;Быстрая биография пользователя для ваших мокапов.</em></li>
 <li><a href="http://copypastecharacter.com/">Copy Paste Character:</a><em>&nbsp;Нажми, чтобы скопировать.</em></li>
 <li><a href="https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en">Window Resizer:</a><em>&nbsp;Отображение веб-сайта на экранах различного разрешения.</em></li>
+<li>https://redbot.org/ <em>Проверка заголовков запросов сайта</em></li>
 </ul><br>
 <br>
 <hr><br>
@@ -407,6 +449,69 @@
 <li><a href="http://howmuchtomakeanapp.com/build-a-website-vs-app/">App vs. Website:</a><em>&nbsp;Должен ли я построить веб-сайт или приложение?</em></li>
 </ul><br>
 <br>
+
+#Дополнения
+<h3>Подкасты о веб разрабоке</h3>
+<ul>
+<li>http://radiojs.ru/</li>
+<li>https://github.com/AveVlad/russia-it-podcast</li>
+<li>https://www.youtube.com/channel/UCZeU17nbVfzczAkJVTay9vw</li>
+</ul>
+
+<h3>Материалы о разработке REST API</h3>
+<ul>
+<li>http://www.slideshare.net/mario_cardinal/best-practices-for-designing-pragmatic-restful-api <em>Best Practices for Architecting a Pragmatic Web API. </em></li>
+<li>https://restful-api-design.readthedocs.org/en/latest/ <em>Thoughts on RESTful API Design </em></li>
+<li>http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api <em>Best Practices for Designing a Pragmatic RESTful API </em></li>
+</ul>
+
+<h3>Работа с GIT</h3>
+<ul>
+<li>http://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html <em>дополнение к Git - GIT FLOW</em></li>
+</ul>
+
+<h3>Дополнения для Chrome</h3>
+<ul>
+<li><em>TabMemFree - освобождение памяти за счет выгрузки вкладок</em> https://chrome.google.com/webstore/detail/tabmemfree/pdanbocphccpmidkhloklnlfplehiikb</li>
+<li><em>The Great Suspende - освобождение памяти</em> https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?utm_source=chrome-app-
+launcher-info-dialog</li>
+<li><em>Lazy Tabs - блокировка запосов в неактивных вкладках</em> https://chrome.google.com/webstore/detail/lazy-tabs/aabgbgciohhaogajcnacpgilhmacdahc</li>
+</ul>
+
+
+<h3>Неразобранное</h3>
+<ul>
+<li>http://postnauka.ru/ <em>видео и лекции на различные научные тематики</em></li>
+<li>http://lea.verou.me/css3patterns/ <em>CSS3 Паттерны</em></li>
+<li>http://devdocs.io/ <em>Шпаргалки Веб-разработчика в одном месте</em></li>
+<li>http://glvrd.ru/ <em>Помогает очистить текст от словесного мусора, проверяет на соответствие информационному стилю.</em></li>
+<li>http://www.mobile-patterns.com/ <em>настоящие интерфейсы мобильных приложений</em></li>
+<li>GIMP в вебе: http://pixlr.com/editor/</li>
+<li>Распаковать архив онлайн: http://www.wobzip.org/</li>
+<li>Богатые бесплатные редакторы PDF: http://editor.cutepdf.com/edit.asp и http://www.pdfescape.com/open/</li>
+<li>Поиграть с SQL запросами: http://www.sqlfiddle.com/</li>
+<li>Поиграть с регэкспами: http://regexpal.com/</li>
+<li>Редактор sequence диаграмм: http://www.websequencediagrams.com/ и http://www.codeuml.com/</li>
+<li>безопасная передача файлов http://encryshare.com/</li>
+<li>http://meganote.net/ — бесплатный сервис раскрутки через крауд маркетинг.</li>
+<li>https://htmlacademy.ru/</li>
+<li>http://codecombat.com/</li>
+<li>https://regex101.com/ <em>отличный помощник и тестировщик при работе с регулярками</em></li>
+<li>http://regexr.com/ <em>Работа с регулярками + шаблоны от сообщества</em></li>
+<li>http://www.g200kg.com/en/software/knobman.html - <em>разработка элементов загрузки</em></li>
+<li>http://infinit.io — бесплатный file sharing</li>
+<li>http://wunderlist.com — совместные списки и задачи</li>
+<li>http://www.webhostinghub.com/glyphs — это один из самых больших бесплатных сетов векторных иконок.</li>
+<li>http://mozjpeg.codelove.de оптимизатор с использованием библиотеки mozjpeg</li>
+<li>http://www.freeformatter.com/ — набор онлайн утилит для форматирования, проверки, конвертации XML, HTML, JSON, SQL и т.д.</li>
+<li>http://jex.im/regulex/ — визуализатор regexp'ов</li>
+<li>В раздел «Фоновая музыка для фокусирования на работе http://coffitivity.com/</li>
+<li>http://lorempixel.com/ — полезный сервис для получения временных картинок почти любого размера (альтернатива : http://placekitten.com) </li>
+<li>Голосовой API, понимающий в том числе и русский язык.Позволяет реализовать различный «секретарей», сообщающих Вам погоду, курсы валют, и др. Расположен здесь: api.ai/</li>
+<li>http://startool.strikingly.com/ - Ребята собирают полезные сервисы</li>
+</ul>
+
+
 <b>От переводчика.</b> <i>Со всеми пожеланиями и замечаниями по поводу перевода прошу обращаться ко мне в личку. Спасибо!</i>
 <div class="clear"></div>
 <br>
