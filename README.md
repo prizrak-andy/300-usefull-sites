@@ -361,7 +361,7 @@
 <li><a href="http://noiz.io/">Noizio:</a><em>&nbsp;Спокойные звуки для релакса и продуктивности.</em></li>
 <li><a href="http://defonic.com/">Defonic:</a> <em>Совмещение различных звуков в мелодию.</em></li>
 <li><a href="https://designers.mx/">Designers.mx:</a><em>&nbsp;Плейлисты, собранные дизайнерами для дизайнеров.</em></li>
-<li>http://vk-sound.ru/ <em>Название говорит само за себя</li>
+<li>http://vk-sound.ru/ <em>Название говорит само за себя</em></li>
 <li>http://pleer.com <em>Чудо ресурс</em></li>
 </ul><br>
 
