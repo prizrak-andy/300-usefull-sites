@@ -402,9 +402,12 @@
 </ul><br>
 <br>
 <b>От переводчика.</b> <i>Со всеми пожеланиями и замечаниями по поводу перевода прошу обращаться ко мне в личку. Спасибо!</i>
-  	<div class="clear"></div>
-    </div>
-    
-    Автор перевода : <a href="http://habrahabr.ru/users/shimapa23/">shimapa23</a>
-    <a href="http://habrahabr.ru/post/250621/">Перевод на хабре</a>
-    Автор оригинала : <a href="https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b">Ali Mese</a>
+<div class="clear"></div>
+<br>
+<div>
+Автор перевода : <a href="http://habrahabr.ru/users/shimapa23/">shimapa23</a><br>
+<a href="http://habrahabr.ru/post/250621/">Перевод на хабре</a><br>
+Оригинал : <a href="https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b">Ali Mese</a><br>
+</div>
+</div>
+
