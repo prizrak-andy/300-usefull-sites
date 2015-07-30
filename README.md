@@ -5,6 +5,8 @@
 <ul>
 <li><a href="http://html5up.net/"><strong>HTML5 UP:</strong></a><em> Адаптивные шаблоны&nbsp;HTML5 и&nbsp;CSS3.</em></li>
 <li><a href="http://bootswatch.com/"><strong>Bootswatch:</strong></a><em> Бесплатные темы для&nbsp;Bootstrap.</em></li>
+<li>http://www.themelock.com/ <em>Шаблоны</em></li>
+<li>http://startbootstrap.com/ <em>Bootstrap шаблоны</em>
 <li><a href="http://templated.co/"><strong>Templated:</strong></a>&nbsp;<em>Коллекция&nbsp;845 бесплатных шаблонов&nbsp;CSS и HTML5.</em></li>
 <li><a href="https://wordpress.org/"><strong>Wordpress.org</strong></a><strong> | </strong><a href="https://wordpress.com/"><strong>Wordpress.com</strong></a><strong>: </strong><em>Бесплатное создание веб-сайта.</em></li>
 <li><a href="https://www.strikingly.com/"><strong>Strikingly.com Domain:</strong></a> <em>Конструктор&nbsp;веб-сайтов.</em></li>
@@ -317,6 +319,8 @@
 <li><a href="http://noiz.io/"><strong>Noizio:</strong></a><em>&nbsp;Спокойные звуки для релакса и продуктивности.</em></li>
 <li><a href="http://defonic.com/"><strong>Defonic:</strong></a> <em>Совмещение различных звуков в мелодию.</em></li>
 <li><a href="https://designers.mx/"><strong>Designers.mx:</strong></a><em>&nbsp;Плейлисты, собранные дизайнерами для дизайнеров.</em></li>
+<li>http://vk-sound.ru/ <em>Название говорит само за себя</li>
+<li>http://pleer.com <em>Чудо ресурс</em></li>
 </ul><br>
 
 <h3>B. Избежать отвлечения</h3><br>
