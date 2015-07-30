@@ -1,7 +1,7 @@
 #300+ полезных и относительно бесплатных ресурсов
 
-<div class="content html_format">
-<blockquote>A.&nbsp;<i>Бесплатные&nbsp;Веб-Сайты&nbsp;+ Логотипы&nbsp;+ Хостинг&nbsp;+&nbsp;Выставление Счета</i></blockquote><br>
+<div>
+<h3>A.&nbsp;<i>Бесплатные&nbsp;Веб-Сайты&nbsp;+ Логотипы&nbsp;+ Хостинг&nbsp;+&nbsp;Выставление Счета</i></h3><br>
 <ul>
 <li><a href="http://html5up.net/"><strong>HTML5 UP:</strong></a><em> Адаптивные шаблоны&nbsp;HTML5 и&nbsp;CSS3.</em></li>
 <li><a href="http://bootswatch.com/"><strong>Bootswatch:</strong></a><em> Бесплатные темы для&nbsp;Bootstrap.</em></li>
@@ -17,7 +17,7 @@
 <li><a href="http://slimvoice.co/"><strong>Slimvoice:</strong></a> <em>Невероятно простой счет.</em></li>
 </ul><br>
 
-<blockquote>B. Бесплатные генераторы наименований бизнеса/проекта</blockquote><br>
+<h3>B. Бесплатные генераторы наименований бизнеса/проекта</h3><br>
 <ul>
 <li><a href="http://thenameapp.com/"><strong>The Name App</strong></a><strong>: </strong><em>Найдите подходящее название для вашей блестящей идеи&nbsp;(англ.).</em></li>
 <li><a href="http://www.naminum.com/"><strong>Naminum:</strong></a> <em>Поиск идеального названия для компании (англ.).</em></li>
@@ -28,7 +28,7 @@
 <li><a href="http://www.leandomainsearch.com/"><strong>Lean Domain Search</strong></a><strong>: </strong><em>Мгновенный поиск доменного имени.</em></li>
 </ul><br>
 
-<blockquote>C. Ведение блога</blockquote><br>
+<h3>C. Ведение блога</h3><br>
 <ul>
 <li><a href="http://www.hemingwayapp.com/"><strong>Hemingway:</strong></a> <em>Приложение Hemingway делает ваши тексты чище и понятнее (англ.).</em></li>
 <li><a href="https://free.grammarly.com/"><strong>Grammarly:</strong></a> <em>Находит и исправляет ошибки в ваших текстах (англ.).</em></li>
@@ -42,7 +42,7 @@
 <li><a href="http://e.ggtimer.com/"><strong>Egg Timer:</strong></a> <em>Онлайн таймер.</em></li>
 </ul><br>
 
-<blockquote>D. Поиск&nbsp;интересного&nbsp;контента/идеи</blockquote><br>
+<h3>D. Поиск&nbsp;интересного&nbsp;контента/идеи</h3><br>
 <ul>
 <li><a href="http://www.portent.com/tools/title-maker"><strong>Portent:</strong></a> <em>Генератор идей (англ.).</em></li>
 <li><a href="http://www.google.com/trends/hottrends/visualize?pn=p1"><strong>Google Trends:</strong></a> <em>Новый способ отражения популярных поисковых запросов.</em></li>
@@ -52,7 +52,7 @@
 <li><em>Прочее: </em><a href="https://plus.google.com/explore/_"><strong>Google+ What’s Hot</strong></a> | <strong><a href="https://twitter.com/">Twitter Trending</a></strong><strong>&nbsp;| </strong><a href="http://www.quora.com/Content-Strategy"><strong>Quora</strong></a> | <a href="http://www.reddit.com/"><strong>Reddit</strong></a></li>
 </ul><br>
 
-<blockquote>E. Бесплатный SEO + анализ веб-сайтов</blockquote><br>
+<h3>E. Бесплатный SEO + анализ веб-сайтов</h3><br>
 <ul>
 <li><a href="https://moz.com/researchtools/ose/"><strong>Open Site Explorer:</strong></a> <em>Понятный инструмент анализа ссылок.</em></li>
 <li><a href="https://ahrefs.com/"><strong>Ahrefs:</strong></a> <em>Анализ обратных ссылок и прочее.</em></li>
@@ -79,7 +79,7 @@
 <li><a href="https://ecommerce.shopify.com/grader"><strong>Shopify E-commerce Report:</strong></a><em>&nbsp;Бесплатный отчет по интернет торговле.</em></li>
 </ul><br>
 
-<blockquote>F. Бесплатные оптимизаторы изображений</blockquote><br>
+<h3>F. Бесплатные оптимизаторы изображений</h3><br>
 <ul>
 <li><a href="https://tinyjpg.com/"><strong>TinyJPG</strong></a><strong> | </strong><a href="https://tinypng.com/"><strong>TinyPNG</strong></a> <em>Сжимает изображения.</em></li>
 <li><a href="https://kraken.io/web-interface"><strong>Kraken:</strong></a> <em>Оптимизация изображение и увеличение скорости работы веб-сайта.</em></li>
@@ -88,7 +88,7 @@
 <li><a href="https://wordpress.org/plugins/wp-smushit/"><strong>Smush.it:</strong></a> <em>Плагин Wordpress для оптимизации изображений.</em></li>
 </ul><br>
 
-<blockquote>G. Бесплатные редакторы изображений</blockquote><br>
+<h3>G. Бесплатные редакторы изображений</h3><br>
 <ul>
 <li><a href="https://www.canva.com/"><strong>Canva:</strong></a><em>&nbsp;Невероятно простое создание элементов графического&nbsp;дизайна&nbsp;для&nbsp;блогеров.</em></li>
 <li><a href="https://evernote.com/skitch/"><strong>Skitch:</strong></a> <em>Высказать свое мнение меньшим количеством слов.</em></li>
@@ -99,7 +99,7 @@
 <li><a href="http://memegenerator.net/"><strong>Meme Generator:</strong></a> <em>Первый онлайн генератор мемов.</em></li>
 </ul><br>
 
-<blockquote>H. Сборка и отправление&nbsp;email</blockquote><br>
+<h3>H. Сборка и отправление&nbsp;email</h3><br>
 <ul>
 <li><a href="https://wordpress.org/plugins/contact-form-7/"><strong>Contact form 7:</strong></a><em>&nbsp;Популярный плагин Wordpress для сбора email адресов.</em></li>
 <li><a href="http://mailchimp.com/"><strong>Mailchimp:</strong></a> <em>Отправляйте 12,000 писем&nbsp;2,000 подписчиков бесплатно.</em></li>
@@ -110,7 +110,7 @@
 <li><a href="http://sumome.com/app/scroll-box"><strong>Sumome Scroll Box:</strong></a><em>&nbsp;Вежливая сборка&nbsp;email адресов.</em></li>
 </ul><br>
 
-<blockquote>I. Бесплатные социальные медиа + управление&nbsp;сообществами + анкетирование</blockquote><br>
+<h3>I. Бесплатные социальные медиа + управление&nbsp;сообществами + анкетирование</h3><br>
 <ul>
 <li><a href="http://writerack.com/"><strong>WriteRack:</strong></a> <em>Помощь в ведении блога&nbsp;в Twitter.</em></li>
 <li><strong><a href="http://www.tryspruce.com/">Spruce:</a>&nbsp;</strong><em>Оптимизируем изображения для Twitter.</em></li>
@@ -136,7 +136,7 @@
 <li><a href="http://tally.tl/"><strong>Tally:</strong></a><em>&nbsp;Мгновенное создание опросов.</em></li>
 </ul><br>
 
-<blockquote>J. A/B тестирование и инструменты роста</blockquote><br>
+<h3>J. A/B тестирование и инструменты роста</h3><br>
 <ul>
 <li><a href="http://petithacks.com/"><strong>Petit Hacks:</strong></a> <em>Методика захвата рынка и получения прибыли, используемая на практике.</em></li>
 <li><a href="https://www.optimizely.com"><strong>Optimizely:</strong></a><em>&nbsp;Оптимизационная платформа для веб-сайтов и мобильных приложений.</em></li>
@@ -148,7 +148,7 @@
 
 <h2>→ Дизайн&nbsp;+ Код&nbsp;←</h2><br>
 
-<blockquote>A. Источники&nbsp;бесплатных дизайнов</blockquote><br>
+<h3>A. Источники&nbsp;бесплатных дизайнов</h3><br>
 <ul>
 <li><a href="http://freebbble.com/"><strong>Freebbble</strong></a><strong>: </strong><em>Бесплатные элементы дизайна из&nbsp;Dribbble.</em></li>
 <li><a href="https://dribbble.com/search?q=freebie"><strong>Dribbble:</strong></a><em>&nbsp;Поиск по Dribbble с запросом “freebie”. Сокровище.</em></li>
@@ -171,7 +171,7 @@
 <li><a href="http://www.invisionapp.com/tethr"><strong>Tethr:</strong></a><em>&nbsp;Самый красивый комплект элементов дизайна для iOS.</em></li>
 </ul><br>
 
-<blockquote>B. Выбор цвета</blockquote><br>
+<h3>B. Выбор цвета</h3><br>
 <ul>
 <li><a href="http://www.materialpalette.com/"><strong>Material Palette:</strong></a><em>&nbsp;Генератор и экспорт палитры цветов в стиле материального дизайна.</em></li>
 <li><a href="http://www.flatuicolorpicker.com/"><strong>New Flat UI Color Picker:</strong></a><em>&nbsp;Лучшие цвета для интерфейсов в стиле flat.</em></li>
@@ -195,7 +195,7 @@
 <li><a href="https://chrome.google.com/webstore/detail/palette-for-chrome/oolpphfmdmjbojolagcbgdemojhcnlod"><strong>Palette for Chrome:</strong></a><em>&nbsp;Создание палитры цветов из любого изображения.</em></li>
 </ul><br>
 
-<blockquote>C.&nbsp;Вдохновение</blockquote><br>
+<h3>C.&nbsp;Вдохновение</h3><br>
 <ul>
 <li><a href="http://www.materialup.com/"><strong>MaterialUp:</strong></a><em>&nbsp;Ежедневное вдохновение материальным дизайном.</em></li>
 <li><a href="http://fltdsgn.com/"><strong>FLTDSGN</strong></a><strong>:</strong><em>&nbsp;Лучшие работы в стиле flat.</em></li>
@@ -218,7 +218,7 @@
 <li><a href="https://niice.co/"><strong>Niice:</strong></a> <em>Поисковик со вкусом.</em></li>
 </ul><br>
 
-<blockquote>D. Бесплатные стоковые фотографии</blockquote><br>
+<h3>D. Бесплатные стоковые фотографии</h3><br>
 <ul>
 <li><a href="http://www.sitebuilderreport.com/stock-up"><strong>Stock Up:</strong></a> <em>Лучшие бесплатные стоковые фотографии с разных веб-сайтов в одном месте.</em></li>
 <li><a href="http://www.pexels.com/"><strong>Pexels:</strong></a> <em>Лучшие бесплатные фото в одном месте.</em></li>
@@ -267,7 +267,7 @@
 <li><em>→ от&nbsp;Graphic Burger: (</em><a href="http://graphicburger.com/wood-forest-free-photos/"><strong>здесь</strong></a><strong> | </strong><a href="http://graphicburger.com/iceland-free-photos-vol-1/"><strong>здесь</strong></a><strong> | </strong><a href="http://graphicburger.com/iceland-free-photos-vol-2/"><strong>здесь</strong></a><strong> | </strong><a href="http://graphicburger.com/5-bokeh-backgrounds-vol-1/"><strong>здесь</strong></a><strong> | </strong><a href="http://graphicburger.com/3-infinite-wooden-floors/"><strong>здесь</strong></a><strong> | </strong><a href="http://graphicburger.com/5-blurred-backgrounds-vol-1/"><strong>здесь</strong></a><strong> | </strong>и&nbsp;<a href="http://graphicburger.com/3-curved-wooden-backdrops-vol-1/"><strong>здесь</strong></a><strong>.)</strong></li>
 </ul><br>
 
-<blockquote>E.&nbsp;Бесплатная типографика</blockquote><br>
+<h3>E.&nbsp;Бесплатная типографика</h3><br>
 <ul>
 <li><a href="http://www.typegenius.com/"><strong>TypeGenius:</strong></a> <em>Поиск идеальной комбинации шрифтов для вашего проект.</em></li>
 <li><a href="http://www.fontsquirrel.com/"><strong>Font Squirrel:</strong></a> 100<em>% бесплатные коммерческие шрифты.</em></li>
@@ -280,7 +280,7 @@
 <li><a href="http://font-to-width.com/"><strong>Font-to-width:</strong></a> <em>Сжимает тексты в контейнеры определенного размера.</em></li>
 </ul><br>
 
-<blockquote>F. Бесплатные иконки</blockquote><br>
+<h3>F. Бесплатные иконки</h3><br>
 <ul>
 <li><a href="http://fontello.com/"><strong>Fontello:</strong></a> <em>Генератор шрифта из иконок.</em></li>
 <li><a href="http://www.flaticon.com/"><strong>Flat Icon:</strong></a> <em>Поисковик по&nbsp;16000+ векторным иконкам.</em></li>
@@ -297,7 +297,7 @@
 <li><a href="http://iconsweets.com/"><strong>Icon Sweets:</strong></a> <em>60 бесплатных векторных иконок для&nbsp;Photoshop.</em></li>
 </ul><br>
 
-<blockquote>G. Прочие бесплатные инструменты</blockquote><br>
+<h3>G. Прочие бесплатные инструменты</h3><br>
 <ul>
 <li><a href="http://uinames.com/"><strong>UI Names:</strong></a><em>&nbsp;Генератор имен для использования в мокапах и дизайнах.</em></li>
 <li><a href="http://uifaces.com/"><strong>UI Faces:</strong></a><em>&nbsp;Генератор простых аватарок для интерфейсов.</em></li>
@@ -311,7 +311,7 @@
 
 <h2>&nbsp;→ Работа&nbsp;и продуктивность ←</h2><br>
 
-<blockquote>A. Фоновая музыка для&nbsp;фокусирования на работе</blockquote><br>
+<h3>A. Фоновая музыка для&nbsp;фокусирования на работе</h3><br>
 <ul>
 <li><a href="http://www.noisli.com/"><strong>Noisli</strong></a><strong>: </strong><em>Генератор фоновых шумов.</em></li>
 <li><a href="http://noiz.io/"><strong>Noizio:</strong></a><em>&nbsp;Спокойные звуки для релакса и продуктивности.</em></li>
@@ -319,13 +319,13 @@
 <li><a href="https://designers.mx/"><strong>Designers.mx:</strong></a><em>&nbsp;Плейлисты, собранные дизайнерами для дизайнеров.</em></li>
 </ul><br>
 
-<blockquote>B. Избежать отвлечения</blockquote><br>
+<h3>B. Избежать отвлечения</h3><br>
 <ul>
 <li><a href="http://selfcontrolapp.com/"><strong>Self Control</strong></a><strong>: </strong><em>Mac: бесплатное приложение для того, чтобы избежать отвлекающих веб-сайтов.</em></li>
 <li><a href="http://getcoldturkey.com/"><strong>Cold Turkey:</strong></a> <em>Windows: временная блокировка отвлекающих веб-сайтов.</em></li>
 </ul><br>
 
-<blockquote>C. Организованность и совместная деятельность</blockquote><br>
+<h3>C. Организованность и совместная деятельность</h3><br>
 <ul>
 <li><a href="https://trello.com/"><strong>Trello:</strong></a><em>&nbsp;Ведет учет чего угодно.</em></li>
 <li><a href="https://evernote.com/"><strong>Evernote:</strong></a> <em>Рабочее пространство для всего.</em></li>
@@ -338,7 +338,7 @@
 <li><a href="https://markticle.com/"><strong>Markticle</strong></a><strong>:</strong><em>&nbsp;Помечайте прогресс в чтении статей, чтобы завершить&nbsp;позже.</em></li>
 </ul><br>
 
-<blockquote>D.&nbsp;Удаленная работа</blockquote><br>
+<h3>D.&nbsp;Удаленная работа</h3><br>
 <ul>
 <li><a href="https://nomadlist.io/"><strong>Nomadlist:</strong></a> <em>Лучшие города для жизни и удаленной работы.</em></li>
 <li><a href="http://where-my-nomads.at/"><strong>Where Nomads at:</strong></a><em>&nbsp;Поиск фрилансеров, путешествующих по миру.</em></li>
@@ -351,7 +351,7 @@
 
 <h2>→ Делать открытия и учиться&nbsp;←</h2><br>
 
-<blockquote>A. Узнавать новые инструменты и стартапы</blockquote><br>
+<h3>A. Узнавать новые инструменты и стартапы</h3><br>
 <ul>
 <li><a href="http://www.producthunt.com/"><strong>Product Hunt:</strong></a> <em>Новый продукты и услуги, каждый день.</em></li>
 <li><a href="https://angel.co/"><strong>Angellist:</strong></a><em>&nbsp;Место, где мир знакомится со стартапами.</em></li>
@@ -360,14 +360,14 @@
 <li><a href="http://www.startups-list.com/"><strong>Startups List:</strong></a> <em>Коллекция лучших стартапов.</em></li>
 </ul><br>
 
-<blockquote>B. Строить вместе</blockquote><br>
+<h3>B. Строить вместе</h3><br>
 <ul>
 <li><a href="https://assembly.com/discover"><strong>Assembly:</strong></a> <em>Создавайте новые идеи совместно с другими людьми.</em></li>
 <li><a href="https://www.cofounderslab.com/"><strong>CoFoundersLab:</strong></a><em>&nbsp;Поиск сооснователя старптапа в любом городе, любой индустрии.</em></li>
 <li><a href="http://www.founder2be.com/"><strong>Founder2be:</strong></a> <em>Поиск сооснователя для вашего стартапа.</em></li>
 </ul><br>
 
-<blockquote>C.&nbsp;Учиться</blockquote><br>
+<h3>C.&nbsp;Учиться</h3><br>
 <ul>
 <li><a href="http://www.skillshare.com/"><strong>Skillshare:</strong></a> <em>Расскройте свою креативность вместе с бесплатными онлайн уроками.</em></li>
 <li><a href="https://www.khanacademy.org"><strong>Khan Academy:</strong></a> <em>Бесплатное образование международного класса.</em></li>
@@ -383,7 +383,7 @@
 <li><a href="http://resrc.io/"><strong>reSRC.io:</strong></a><em>&nbsp;Бесплатные обучение программированию.</em></li>
 </ul><br>
 
-<blockquote>D. Полезные email рассылки</blockquote><br>
+<h3>D. Полезные email рассылки</h3><br>
 <ul>
 <li><a href="http://email1k.com/"><strong>Email1K:</strong></a> <em>30-дневный бесплатный курс, который поможет вам удвоить количество email подписчиков.</em></li>
 <li><a href="http://designforhackers.com/"><strong>Design for Hackers:</strong></a> <em>12 недель обучения дизайну, прямо у вас в почтовом ящике.</em></li>
@@ -395,7 +395,7 @@
 <li><a href="http://uxdesignweekly.com/"><strong>UX Design Weekly:</strong></a><em>&nbsp;Лучшие статьи о дизайне и пользовательском опыте.</em></li>
 </ul><br>
 
-<blockquote>E.&nbsp;Полезные инструменты</blockquote><br>
+<h3>E.&nbsp;Полезные инструменты</h3><br>
 <ul>
 <li><a href="http://foundrs.com/"><strong>Foundrs:</strong></a> <em>Калькулятор долей собственности стартапа.</em></li>
 <li><a href="http://ad-spend-calculator.qwilr.com/"><strong>Ad Spend Calculator:</strong></a><em>&nbsp;Должен ли я платить за рекламу стартапа?</em></li>
